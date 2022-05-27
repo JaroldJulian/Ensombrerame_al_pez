@@ -1,0 +1,17 @@
+ @media (max-width: 767px) {
+    .pc{
+        display: none;
+    }
+}
+@media (min-width: 767px) {
+    .telefono{
+        display: none;
+    }
+}
+.{
+    padding: 1%;
+    overflow: hidden;
+}
+#pez{
+    justify-content: center;
+}
